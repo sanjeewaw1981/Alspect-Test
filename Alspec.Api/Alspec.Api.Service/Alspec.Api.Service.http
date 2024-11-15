@@ -1,0 +1,6 @@
+@Alspec.Api.Service_HostAddress = http://localhost:5122
+
+GET {{Alspec.Api.Service_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
